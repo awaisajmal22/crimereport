@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209785777936",
+    "project_id": "crimereporting-dfeb1",
+    "storage_bucket": "crimereporting-dfeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209785777936:android:c1fda32d58968a23ebff95",
+        "android_client_info": {
+          "package_name": "com.talhaiqbal.iuvo.iuvo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGcn0cjpqUeh65B7lVcIL2cv93ck7sXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
